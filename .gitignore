@@ -1,0 +1,7 @@
+.DS_Store
+MVVM_app/.DS_Store
+
+
+*.xcuserstate
+MVVM_app.xcodeproj/project.xcworkspace/
+MVVM_app.xcodeproj/xcuserdata/
